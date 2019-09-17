@@ -45,3 +45,7 @@ Available datasets:
 - `callback`: This is a URL when clicked on the notification, should redirect you to
 - `image`: Image added to the notification
 - `timestamp`: Allow user see when the action they're been notified about took place
+
+## Contributor
+        Precious Tom
+        Kebin Kito
